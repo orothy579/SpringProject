@@ -40,6 +40,7 @@
 
 <body>
 <h1>자유게시판</h1>
+<button type="button" onclick="location.href='../login/login'">logout</button>
 
 
 <table id="list" width="90%">
